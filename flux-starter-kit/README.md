@@ -1,6 +1,7 @@
 ## Flux Starter Kit
 
 This is the accompanying starter kit for the Flux Quick Start Guide.
+URL of the Flux Quick Start Guide: http://www.jackcallister.com/2015/02/26/the-flux-quick-start-guide.html
 
 ## Setup
 
@@ -30,5 +31,5 @@ This will make Webpack watch the project and build a new `bundle.js` file on eac
 
 Visit `localhost:8000` and you should see the text `Great Scott, it works!`
 
-With that setup and running you can continue following along with the guide.
+With that setup and running you can continue following along with the Flux Quick Start Guide..
 
